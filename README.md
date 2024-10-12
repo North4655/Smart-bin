@@ -1,10 +1,10 @@
 # Smart Bin
 
 **Description:**
-*My project smart bin for 888399,888498,888499
-*Name: Teerapat jongthong
-*Student ID: 642415025
-*Project advisor: ANIWAT PHAPHUANGWITTAYAKUL
+* My project smart bin for 888399,888498,888499
+* Name: Teerapat jongthong
+* Student ID: 642415025
+* Project advisor: ANIWAT PHAPHUANGWITTAYAKUL
 
 
 **Installation:**
